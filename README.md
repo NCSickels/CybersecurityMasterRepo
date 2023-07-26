@@ -1,2 +1,2 @@
-# PentestMasterRepo
-Complete collection of notes, resources, and tools for pentesting and development.  
+# CybersecurityMasterRepo
+Complete collection of notes, resources, and tools for Cybersecurity, Pentesting, and development.
